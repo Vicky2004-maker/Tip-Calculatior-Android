@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="billAmount">Bill Amount</string>
+    <string name="tipPercent">Tip Percent ( % )</string>
+    <string name="persons">Split the bill among persons</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="split">Split the tip among persons</string>
+    <string name="tip">Tip : </string>
+    <string name="total">Total : </string>
+    <string name="includingTotal">Bill + Tip</string>
+    <string name="splitAmount">Split Bill :</string>
+    <string name="includingSplit">Total Bill including tip is split</string>
+    <string name="calc">Calculate</string>
+    <string name="splitTip">Split Tip : </string>
+    <string name="includingSplitTip">This is the total tip amount split</string>
+    <string name="noNegative">None of the value can\'t be negative.</string>
+    <string name="round">Round</string>
+</resources>
